@@ -1,0 +1,17 @@
+# Tabuleiro Tango - Exemplo 3 (desafiador)
+# 16 celulas vazias - solucao unica (padrao xadrez)
+6
+S L . L . .
+L S L . . .
+. L S L . .
+L . . S . .
+S . . L S .
+L S L . . .
+---
+= 0,0 1,1
+x 0,1 0,2
+= 2,2 3,3
+x 5,4 5,5
+= 1,1 3,1
+x 2,3 3,3
+= 4,0 2,0
