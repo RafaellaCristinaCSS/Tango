@@ -80,7 +80,7 @@ tango/
 ├── tabuleiro2.txt                   # Exemplo médio
 ├── tabuleiro3.txt                   # Exemplo desafiador
 ├── README.md
-└── RELATORIO.md                     # Relatório técnico completo
+└── Relatorio.pdf                     # Relatório técnico completo
 ```
 
 ---
@@ -192,4 +192,4 @@ A comparação entre as seções demonstra como o backtracking explora menos est
 
 ## Documentação Adicional
 
-Consulte `RELATORIO.md` para o relatório técnico completo exigido pelo professor, incluindo modelagem, estratégias algorítmicas, exemplos de execução e análise de complexidade.
+Consulte `Relatorio.pdf` para o relatório técnico completo exigido pelo professor, incluindo modelagem, estratégias algorítmicas, exemplos de execução e análise de complexidade.

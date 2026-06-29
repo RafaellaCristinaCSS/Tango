@@ -2,11 +2,11 @@
 # Tabuleiro 6x6 com poucas celulas vazias - solucao unica
 6
 S L . L S L
-L . L . L S
-. . . . . .
-L . . . L S
-S L . L . .
-. S L . L S
+L S L . L S
+. L S L . .
+L . L S L S
+S L . L S L
+L S L . L S
 ---
 = 0,0 1,1
 x 0,1 0,2
